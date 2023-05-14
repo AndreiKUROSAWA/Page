@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+}
+
+header{
+    background-color: #1f2937;
+    display: flex;
+}
+
+footer{
+    
+    display: flex;
+}
+.quote{
+    background-color: #e5e7eb;
+    
+}
